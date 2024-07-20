@@ -4,6 +4,7 @@ It is imperative to take great measures of nutrition facts to stay away from dif
 **DATA COLLECTION**
 
 ![Screenshot 2024-07-20 184637](https://github.com/user-attachments/assets/193f79f7-23ef-4de6-a84e-ae54e87f99b7)
+![Screenshot 2024-07-20 190627](https://github.com/user-attachments/assets/27f8c2c8-2252-4567-a71b-8d8715c69a74)
 
 
 **DATA PREPROCESSING**
@@ -11,10 +12,11 @@ It is imperative to take great measures of nutrition facts to stay away from dif
 ![Screenshot 2024-07-20 184734](https://github.com/user-attachments/assets/841ea49b-4aac-4f15-9a83-38808338d28d)
 ![Screenshot 2024-07-20 184807](https://github.com/user-attachments/assets/4ec151e5-c469-4c45-aa04-a6297a9edc8b)
 
+
 **CLASSIFICATION OF FRUITS AND VEGETABLES USING CNN**
 
 ![Screenshot 2024-07-20 184713](https://github.com/user-attachments/assets/60cf2ccd-f3d8-4ad9-b828-c0538e0bbea5)
-![Screenshot 2024-07-20 184818](https://github.com/user-attachments/assets/686bf4f8-3cca-4807-9d77-f44c29f6f25f)
+   ![Screenshot 2024-07-20 184818](https://github.com/user-attachments/assets/686bf4f8-3cca-4807-9d77-f44c29f6f25f)
 ![Screenshot 2024-07-20 184857](https://github.com/user-attachments/assets/250db113-6ea8-45d1-b1c9-19e6254103c2)
 
 
@@ -26,3 +28,6 @@ It is imperative to take great measures of nutrition facts to stay away from dif
 **FRONTEND**
 
 ![Screenshot 2024-07-20 184959](https://github.com/user-attachments/assets/15380d08-b44b-4727-adc0-09c81691074f)
+![WhatsApp Image 2024-07-20 at 6 57 29 PM](https://github.com/user-attachments/assets/13e83b95-276f-4c5b-bbc6-904af8bc1804)
+![WhatsApp Image 2024-07-20 at 6 57 04 PM](https://github.com/user-attachments/assets/3aeed823-b3c6-4ea4-8e37-a61efbc2b16d)
+
