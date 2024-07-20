@@ -8,3 +8,21 @@ It is imperative to take great measures of nutrition facts to stay away from dif
 
 **DATA PREPROCESSING**
 
+![Screenshot 2024-07-20 184734](https://github.com/user-attachments/assets/841ea49b-4aac-4f15-9a83-38808338d28d)
+![Screenshot 2024-07-20 184807](https://github.com/user-attachments/assets/4ec151e5-c469-4c45-aa04-a6297a9edc8b)
+
+**CLASSIFICATION OF FRUITS AND VEGETABLES USING CNN**
+
+![Screenshot 2024-07-20 184713](https://github.com/user-attachments/assets/60cf2ccd-f3d8-4ad9-b828-c0538e0bbea5)
+![Screenshot 2024-07-20 184818](https://github.com/user-attachments/assets/686bf4f8-3cca-4807-9d77-f44c29f6f25f)
+![Screenshot 2024-07-20 184857](https://github.com/user-attachments/assets/250db113-6ea8-45d1-b1c9-19e6254103c2)
+
+
+**TRAINING AND VALIDATION ACCURACY**
+
+![Screenshot 2024-07-20 184915](https://github.com/user-attachments/assets/5228c99b-9b25-443a-b126-591a1aaa58ec)
+
+
+**FRONTEND**
+
+![Screenshot 2024-07-20 184959](https://github.com/user-attachments/assets/15380d08-b44b-4727-adc0-09c81691074f)
