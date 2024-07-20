@@ -2,3 +2,6 @@ It is imperative to take great measures of nutrition facts to stay away from dif
 
 
 **DATA COLLECTION**
+
+![Screenshot 2024-07-20 184637](https://github.com/user-attachments/assets/193f79f7-23ef-4de6-a84e-ae54e87f99b7)
+
